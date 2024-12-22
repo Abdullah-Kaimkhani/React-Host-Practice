@@ -1,0 +1,12 @@
+.cardDiv{
+    text-align: center;
+    gap: 20px;
+    box-shadow: 0 0 20px gray;
+    border: 2px solid black;
+    width: 30%;
+    flex-direction: row;
+}
+
+.cardDiv img {
+    width: 100%;
+}
